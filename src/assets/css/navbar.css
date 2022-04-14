@@ -1,0 +1,34 @@
+.navbar {
+  background-color: #f1f3ff;
+}
+
+.nav-item {
+  margin-right: 32px;
+  font-weight: 400px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.nav-item.active a {
+  color: #000000 !important;
+  font-weight: 600px;
+}
+
+.button {
+  background-color: #5cb85f;
+  border-radius: 2px;
+  color: #ffffff;
+  border: none;
+  font-size: 14px;
+  padding: 8px;
+  width: 81px;
+  height: 36px;
+  line-height: 20px;
+  font-weight: 700px;
+}
+.button:hover {
+  background-color: #2da331;
+}
+
+
+

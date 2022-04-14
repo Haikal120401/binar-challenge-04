@@ -1,0 +1,42 @@
+#mobil {
+    background-color: #f1f3ff;
+    height: 450px;
+  }
+  
+  #mobil h3 {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 54px;
+    margin-top: 95px;
+  }
+  #mobil p {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 300px;
+    margin-top: 16px;
+    width: 468px;
+  }
+  
+  #mobil button {
+    background-color: #5cb85f;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700px;
+    line-height: 20px;
+    border-radius: 2px;
+    border: none;
+    width: 140px;
+    height: 36px;
+    padding: 8px;
+    margin-top: 16px;
+  }
+  #mobil button:hover {
+    background-color: #2da331;
+  }
+  #mobil img {
+    margin-top: 45px;
+    position: absolute;
+    right: 0;
+    width: 704px;
+    height: 407px;
+  }

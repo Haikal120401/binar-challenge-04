@@ -1,0 +1,44 @@
+#pencarian .container{
+    width: 1074px;
+    height: 106px;
+    border-radius: 8px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+    margin-top: 15px;
+    font-size: 12px;
+  
+  }
+  
+  #pencarian .container button{
+    background-color: #5cb85f;
+    border-radius: 2px;
+    color: #ffffff;
+    border: none;
+    font-size: 14px;
+    padding: 8px;
+    width: 81px;
+    height: 36px;
+    line-height: 20px;
+    font-weight: 700px;
+  }
+  
+  #pencarian .container button:hover {
+    background-color: #2da331;
+  }
+  
+  #pencarian .container select {
+    width: 200px;
+    height: 36px;
+    margin-right: 3px;
+    font-size: 14px;
+  }
+  
+  #pencarian .container input {
+    width: 200px;
+    height: 36px;
+    font-size: 14px;
+  }
+  #pencarian .container label {
+    font-size: 14px;
+  }
+  
+  

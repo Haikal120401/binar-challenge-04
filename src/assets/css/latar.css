@@ -1,0 +1,10 @@
+#scene {
+    background-color: #f1f3ff;
+    height: 250px;
+    margin-bottom: -80px;
+    z-index: -999;
+}
+
+#pencarian {
+    z-index: 2;
+}

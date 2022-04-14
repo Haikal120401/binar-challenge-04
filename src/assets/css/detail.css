@@ -1,0 +1,15 @@
+.container .row button {
+    /* width: 178px;
+    height: 36px; */
+    border-radius: 2px;
+    background-color: #5CB85F;
+    justify-content: center;
+}
+.container button {
+    /* width: 178px;
+    height: 36px; */
+    border-radius: 2px;
+    background-color: #5CB85F;
+    justify-content: center;
+    align-items: center;
+}
